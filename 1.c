@@ -7,7 +7,7 @@ struct student{
 };
 
 int main(){
-
+//hello
  // struct student *ptr=0;
     struct student *ptr=(struct student *)malloc(sizeof(struct student));
 
